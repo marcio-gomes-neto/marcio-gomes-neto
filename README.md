@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Márcio do Vale Gomes Neto</h1>
-<h3 align="center">Desenvolvedor Full Stack, atuando em desenvolvimento mobile</h3>
+<h3 align="center">Desenvolvedor Full Stack</h3>
 
 - Hi, I'm currently working in **U4Crypto**
 

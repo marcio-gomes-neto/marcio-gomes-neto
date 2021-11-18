@@ -2,6 +2,9 @@
 <h3 align="center">Desenvolvedor Full Stack</h3>
 
 - Hi, I'm currently working in **U4Crypto**
+- Currently working in node.js as backend, 
+- Angular and ionic for frontend mobile development.
+- Always trying to learn new languages and technologies 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

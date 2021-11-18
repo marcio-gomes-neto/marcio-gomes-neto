@@ -1,4 +1,4 @@
-<h1 align="center">Hey! 👋, I'm sou Márcio do Vale Gomes Neto</h1>
+<h1 align="center">Hey! 👋, I'm Márcio do Vale Gomes Neto</h1>
 <h3 align="center">Desenvolvedor Full Stack</h3>
 
 - Hi, nowadays I work at  **U4Crypto**

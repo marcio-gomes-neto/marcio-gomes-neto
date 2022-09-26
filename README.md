@@ -4,6 +4,7 @@
 - Currently I'm work at  **U4Crypto**
 - Working in node.js as backend, 
 - Angular and ionic for frontend mobile development.
+- React for frontend web development.
 - Always trying to learn new languages and technologies 
 
 <h3 align="left">Connect with me:</h3>

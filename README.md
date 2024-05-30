@@ -1,9 +1,8 @@
 <h1 align="center">Hey! 👋, I'm Márcio do Vale Gomes Neto</h1>
 <h3 align="center">Desenvolvedor Full Stack</h3>
 
-- Currently I'm work at  **U4Crypto**
-- Working in node.js as backend, 
-- Angular and ionic for frontend mobile development.
+- Currently I'm work at  **Pay2Free**
+- Working in node.js as backend.
 - React for frontend web development.
 - Always trying to learn new languages and technologies 
 
